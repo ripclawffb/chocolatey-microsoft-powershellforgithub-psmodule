@@ -18,7 +18,7 @@
 
       ---</description>
     <summary>PowerShell module that provides command-line interaction for the GitHub v3 API</summary>
-    <releaseNotes>https://vdc-download.vmware.com/vmwb-repository/dcr-public/f0d2eb5d-3181-4c40-8450-84d3117598a8/6c49bc2e-10c6-4494-92e5-33408e5c0747/vmware-powercli-12-release-notes.html</releaseNotes>
+    <releaseNotes>https://github.com/microsoft/PowerShellForGitHub/releases</releaseNotes>
     <copyright>Copyright (c) 2020 Microsoft All rights reserved.</copyright>
     <tags>admin microsoft powershellforgithub powershell module github git</tags>
     <packageSourceUrl>https://github.com/ripclawffb/chocolatey-microsoft-powershellforgithub-psmodule</packageSourceUrl>
