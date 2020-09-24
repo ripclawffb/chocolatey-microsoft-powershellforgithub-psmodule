@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>microsoft-powershellforgithub-psmodule</id>
-    <version>0.14.0</version>
+    <version>0.15.1</version>
     <title>Microsoft PowerShellForGithub (Install)</title>
     <authors>Microsoft</authors>
     <owners>Asif Shaikh</owners>
@@ -26,7 +26,7 @@
     <dependencies>
       <dependency id="dotnet4.5" />
       <dependency id="powershell" version="5.0" />
-    </dependencies>  
+    </dependencies>
   </metadata>
   <files>
     <!-- this section controls what actually gets packaged into the Chocolatey package -->
